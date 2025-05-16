@@ -21,14 +21,12 @@ Um projeto simples em Python executado no terminal para criar, listar, editar, c
 2. Clone o repositório ou baixe os arquivos.
 3. No terminal, execute:
 
-````bash
 python Gerenciador.py
 
-
-
 ---
+''''
 
-### 🇺🇸 **Versão em Inglês — `README.md`**
+ 🇺🇸 **Versão em Inglês 
 
 ```markdown
 # ✅ Task Manager 1.0
